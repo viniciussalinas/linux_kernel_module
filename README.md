@@ -3,8 +3,11 @@ Developed for "Laboratório de Sistemas Operacionais" in October 2017, this modu
 
 ## Usage
 Compile with make.
+
 Install with insmod.
+
 Access process data with cat /proc/hello.
+
 
 ## Features
 Displays the current process's PID and its parent's PID.
